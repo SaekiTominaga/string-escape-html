@@ -1,6 +1,6 @@
 {
 	"name": "@saekitominaga/string-escape-html",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Escapes the characters in a string using character references.",
 	"keywords": [
 		"html",
