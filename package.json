@@ -2,6 +2,10 @@
 	"name": "@saekitominaga/string-escape-html",
 	"version": "1.0.0",
 	"description": "Escapes the characters in a string using character references.",
+	"keywords": [
+		"html",
+		"escape"
+	],
 	"homepage": "https://github.com/SaekiTominaga/string-escape-html#readme",
 	"bugs": {
 		"url": "https://github.com/SaekiTominaga/string-escape-html/issues"
