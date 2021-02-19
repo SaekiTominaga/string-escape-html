@@ -11,7 +11,7 @@ export default class {
 	 */
 	static escape(input: string): string {
 		let escaped = input;
-		for (const [key, value] of new Map<string, string>([
+		for (const [key, value] of new Map([
 			['&', '&amp;'], // & の変換は最初に行う必要がある
 			['<', '&lt;'],
 			['>', '&gt;'],
@@ -20,6 +20,7 @@ export default class {
 		])) {
 			escaped = escaped.replaceAll(key, value);
 		}
+
 		return escaped;
 	}
 }

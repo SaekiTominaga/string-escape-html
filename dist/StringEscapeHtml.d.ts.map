@@ -1,1 +1,1 @@
-{"version":3,"file":"StringEscapeHtml.d.ts","sourceRoot":"","sources":["../src/StringEscapeHtml.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,CAAC,OAAO;IACb;;;;;;OAMG;IACH,MAAM,CAAC,MAAM,CAAC,KAAK,EAAE,MAAM,GAAG,MAAM;CAapC"}
+{"version":3,"file":"StringEscapeHtml.d.ts","sourceRoot":"","sources":["../src/StringEscapeHtml.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,CAAC,OAAO;IACb;;;;;;OAMG;IACH,MAAM,CAAC,MAAM,CAAC,KAAK,EAAE,MAAM,GAAG,MAAM;CAcpC"}
