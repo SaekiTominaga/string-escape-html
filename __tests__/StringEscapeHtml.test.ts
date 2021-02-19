@@ -1,4 +1,4 @@
-import StringEscapeHtml from '../dist/StringEscapeHtml.js';
+import StringEscapeHtml from '../src/StringEscapeHtml';
 
 describe('正常系', () => {
 	test('空文字', () => {
@@ -11,10 +11,5 @@ describe('正常系', () => {
 		expect(StringEscapeHtml.escape('<x-hoge data-piyo1="fuga&fuga" data-piyo2=\'fuga&fuga\'>')).toBe(
 			'&lt;x-hoge data-piyo1=&quot;fuga&amp;fuga&quot; data-piyo2=&#39;fuga&amp;fuga&#39;&gt;'
 		);
-	});
-	test('null', () => {
-		expect(() => {
-			StringEscapeHtml.escape(null);
-		}).toThrow();
 	});
 });
