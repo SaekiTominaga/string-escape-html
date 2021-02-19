@@ -1,6 +1,8 @@
 # Escapes the characters for HTML
 
 [![npm version](https://badge.fury.io/js/%40saekitominaga%2Fstring-escape-html.svg)](https://badge.fury.io/js/%40saekitominaga%2Fstring-escape-html)
+[![Build Status](https://www.travis-ci.com/SaekiTominaga/string-escape-html.svg)](https://www.travis-ci.com/SaekiTominaga/string-escape-html)
+[![Coverage Status](https://coveralls.io/repos/github/SaekiTominaga/string-escape-html/badge.svg)](https://coveralls.io/github/SaekiTominaga/string-escape-html)
 
 ## Examples
 
